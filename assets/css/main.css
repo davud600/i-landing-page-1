@@ -929,6 +929,10 @@ section {
     }
 }
 
+.portfolio-content {
+    box-shadow: 0 0 25px rgba(0, 0, 0, 0.08);
+}
+
 .projects .portfolio-content {
     position: relative;
     overflow: hidden;
